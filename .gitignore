@@ -1,0 +1,55 @@
+# Arquivos compilados
+target/
+*.class
+
+# Arquivos de IDE
+.idea/
+*.iml
+.vscode/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.pdf
+*.csv
+*.zip
+
+# Logs
+*.log
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
