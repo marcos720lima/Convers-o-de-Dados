@@ -1,6 +1,6 @@
-# Conversão de Dados - Teste Técnico
+# Conversão de Dados - Teste 
 
-Este projeto foi desenvolvido como parte de um teste técnico, com o objetivo de extrair, transformar e processar dados de um PDF da ANS (Agência Nacional de Saúde Suplementar).
+Este projeto foi desenvolvido como parte de um teste pessoal, com o objetivo de extrair, transformar e processar dados de um PDF da ANS (Agência Nacional de Saúde Suplementar).
 
 ## Funcionalidades
 
@@ -43,5 +43,3 @@ O programa gera:
 - Substituição das abreviações OD e AMB por suas descrições completas
 
 ## Autor
-
-Marcos 
